@@ -67,6 +67,8 @@ Full KiCad project included, plus a fabrication-ready production folder (BOM, CP
 
 Case parts are held together with **M3 screws** — all mounting holes are sized for M3.
 
+![Case](images/zx48-custom-case-keyboard-17.jpg)
+
 ## Credits & licenses
 
 - All files in this repository (case, keycaps, keyboard PCB) are released under the **MIT License** — see [LICENSE](LICENSE).
