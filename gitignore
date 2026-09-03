@@ -1,0 +1,18 @@
+# KiCad backups and caches
+*-backups/
+fp-info-cache
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# FreeCAD backups
+*.FCStd1
+*.FCBak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+*.swp
