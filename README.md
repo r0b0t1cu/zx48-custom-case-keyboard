@@ -53,7 +53,7 @@ A custom keyboard PCB for use with Cherry MX (and compatible) switches.
 ![Keyboard](ZX_Spectrum_Keyboard_PCB/ZX_Spectrum_Keyboard_PCB_Front.jpg)
 ![Keyboard](images/zx48-custom-case-keyboard-02.jpg)
 
-Full KiCad project included, plus a fabrication-ready production folder (BOM, CPL, netlist, Gerbers) for ordering directly from a fab house such as JLCPCB.
+Full KiCad project included, plus a fabrication-ready production folder (BOM, CPL, netlist, Gerbers) for ordering directly from a fab house such as PCBWay or JLCPCB.
 
 ## 3D Printing
 
