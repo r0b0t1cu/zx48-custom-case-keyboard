@@ -55,6 +55,18 @@ A custom keyboard PCB for use with Cherry MX (and compatible) switches.
 
 Full KiCad project included, plus a fabrication-ready production folder (BOM, CPL, netlist, Gerbers) for ordering directly from a fab house such as PCBWay or JLCPCB.
 
+---
+
+If you enjoy my projects and would like to support my work, you can do so through PCBWay. You can also order the PCBs for this project directly from the link below. Every bit of support is appreciated!
+
+<p>
+  <a href="https://www.pcbway.com/project/shareproject/ZX_Spectrum_custom_keyboard_39c482af.html">
+    <img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCBWay — Support my projects" />
+  </a>
+</p>
+
+---
+
 ## 3D Printing
 
 - **Material:** PLA
